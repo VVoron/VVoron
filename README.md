@@ -46,6 +46,6 @@
 ### ⚙️ GitHub статистика:
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=VVoron&show_icons=true&count_private=true&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVoron&hide_border=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VVoron&show_icons=true&count_private=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVoron&hide_border=true&layout=compact" />
 </div>  
