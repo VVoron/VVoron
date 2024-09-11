@@ -4,11 +4,14 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий разработчик веб и десктопных приложений <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Я fullstack разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
+- :zap: Работаю в компании КРОК, где учавствую в проектах, использующих в себе
+        .NET, Angular, Sql Server
 
 - :zap: Работал над проектами вуза в виде ассоциации выпускников и сайта международной академии
 
